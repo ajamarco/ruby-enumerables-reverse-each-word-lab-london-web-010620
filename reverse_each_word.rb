@@ -5,5 +5,5 @@ end
 our_str = "this is a string"
 puts our_str
 
-our_array = %[our_str]
+our_array = %w[our_str]
 puts our_array
