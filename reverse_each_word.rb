@@ -6,12 +6,12 @@ def reverse_each_word(str)
   str_to_return
 end
 
-our_str = "this 31 the string"
-puts our_str
+# our_str = "this 31 the string"
+# puts our_str
 
-array = our_str.split
+# array = our_str.split
 
-aaaa = reverse_each_word(our_str)
-str = aaaa*" "
+# aaaa = reverse_each_word(our_str)
+# str = aaaa*" "
 
-p str
+# p str
