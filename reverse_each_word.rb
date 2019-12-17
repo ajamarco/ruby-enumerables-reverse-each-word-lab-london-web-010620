@@ -6,4 +6,4 @@ our_str = "this is the string"
 puts our_str
 
 array = our_str.scan(/\w+/)
-puts array
+p array
