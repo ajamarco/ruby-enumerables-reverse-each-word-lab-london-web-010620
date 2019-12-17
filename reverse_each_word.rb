@@ -5,4 +5,5 @@ end
 our_str = "this is the string"
 puts our_str
 
-our_str.scan
+array = our_str.scan(/\w+/)
+puts array
