@@ -5,4 +5,5 @@ end
 our_str = "this 31 the string"
 puts our_str
 
-array = our_str.scan(/\w+/)
+array = our_str.split
+p array
