@@ -11,3 +11,4 @@ puts our_str
 array = our_str.split
 
 aaaa = reverse_each_word(our_str)
+puts aaaa
