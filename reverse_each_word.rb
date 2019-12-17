@@ -8,3 +8,6 @@ end
 
 our_array = %w[this is an example]
 p our_array
+
+str = our_array.join(" ")
+p str
