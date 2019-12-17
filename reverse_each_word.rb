@@ -12,3 +12,5 @@ array = our_str.split
 
 aaaa = reverse_each_word(our_str)
 str = aaaa*" "
+
+puts str
